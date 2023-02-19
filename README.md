@@ -9,7 +9,9 @@ The Competitive coding is to refine the programming skills obtained in class in 
 ## ⭐ To remove code phobia.
 ## ⭐ To create incubation environment for skilled developers.
 
-## These Are the List Of Competitive Programming Codes From Codechef :-
+## These Are the List Of Competitive Programming Codes :- 
+
+## Codechef :-
 
 1. [RCB and Playoffs](https://www.codechef.com/submit/RCBPLAY/)
 2. [Sasta Shark Tank](https://www.codechef.com/submit/SST/)
@@ -35,3 +37,10 @@ The Competitive coding is to refine the programming skills obtained in class in 
 22. [Mileage matters](https://www.codechef.com/submit/MILEAGE/)
 23. [Slow Solution](https://www.codechef.com/submit/SLOWSOLN/)
 24. [WA Test Cases](https://www.codechef.com/submit/WATESTCASES/)
+
+## LeetCode :-
+
+1. [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+2. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+3. [Array Partition](https://leetcode.com/problems/array-partition/)
+
